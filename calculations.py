@@ -17,10 +17,6 @@
 
 ### Functions ###
 
-# Base pay per hour.
-def base_hourly(time, rate):
-    return time * rate
-
 
 # Tax Reduction.
 def tax_deduction(base_pay, tax_rate):
